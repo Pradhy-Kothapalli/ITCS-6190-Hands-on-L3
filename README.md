@@ -1,6 +1,6 @@
 # ITCS-6190-Hands-on-L3
 
-Create 4 files
+Create 4 files Requirements.txt, app.py, Dockerfile, and compose.yaml
 
 ```txt
 flask
