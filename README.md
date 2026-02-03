@@ -65,6 +65,9 @@ docker compose up --build
 Open the browser:
 ```text
 http://localhost:8000
-```
+```<img width="1911" height="1075" alt="Screenshot 2026-02-03 120416" src="https://github.com/user-attachments/assets/2e1269a1-4780-4e4d-b038-9908ca2f5b9f" />
+
 
 I learned how to install Docker Desktop and use the CLI to manage, run, and deploy containers by completing this Hands-on activity.
+<img width="1908" height="1074" alt="Screenshot 2026-02-03 120144" src="https://github.com/user-attachments/assets/2ac1dd2c-9603-44ab-bda1-660ca8967b46" />
+![Uploading Screenshot 2026-02-03 120416.png…]()
