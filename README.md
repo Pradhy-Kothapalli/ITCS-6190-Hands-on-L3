@@ -66,3 +66,5 @@ Open the browser:
 ```text
 http://localhost:8000
 ```
+
+I learned how to install Docker Desktop and use the CLI to manage, run, and deploy containers by completing this Hands-on activity.
