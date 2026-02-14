@@ -70,4 +70,4 @@ http://localhost:8000
 
 I learned how to install Docker Desktop and use the CLI to manage, run, and deploy containers by completing this Hands-on activity.
 
-The images are in the Hands-on 2 folder in the PDF document
+![Alt Text](Hands-on 2/Screenshot 2026-02-03 120416.png)
